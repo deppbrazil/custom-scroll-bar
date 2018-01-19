@@ -1,0 +1,23 @@
+{
+  "name": "custom-scroll-bar",
+  "version": "1.0.0",
+  "description": "Customing scroll bar",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppbrazil/custom-scroll-bar.git"
+  },
+  "keywords": [
+    "custom",
+    "scoll-bar"
+  ],
+  "author": "Mir Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deppbrazil/custom-scroll-bar/issues"
+  },
+  "homepage": "https://github.com/deppbrazil/custom-scroll-bar#readme"
+}
